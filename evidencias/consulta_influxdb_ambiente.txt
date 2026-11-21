@@ -1,0 +1,5 @@
+Consulta reduce() sobre la medicion ambiente (sala-01), 2026-11-21T03:03Z (20/11 22:03 Colombia)
+_field,first,last,max,min,n,mean
+humidity,2026-11-14T02:40:06.871Z,2026-11-21T03:03:14.695Z,68.47,41.09,60616,55.03
+illuminance,2026-11-14T02:40:06.871Z,2026-11-21T03:03:14.695Z,518,0,60616,172.44
+temperature,2026-11-14T02:40:06.871Z,2026-11-21T03:03:14.695Z,35,18.93,60616,24.03
